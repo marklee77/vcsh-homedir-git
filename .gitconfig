@@ -1,0 +1,12 @@
+[user]
+	name = Mark Stillwell
+	email = marklee@fortawesome.org
+
+[web]
+	browser = /usr/bin/firefox
+[github]
+	user = marklee77
+[color]
+	ui = auto
+[core]
+	editor = vim
