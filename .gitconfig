@@ -1,6 +1,7 @@
 [user]
 	name = Mark Stillwell
 	email = marklee@fortawesome.org
+	signby = mark@stillwell.me
 
 [web]
 	browser = /usr/bin/firefox
@@ -10,3 +11,5 @@
 	ui = auto
 [core]
 	editor = vim
+[gcrypt]
+	participants = mark@stillwell.me
