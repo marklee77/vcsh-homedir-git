@@ -1,4 +1,8 @@
 *
+!.config
+!.config/zsh
+!.config/zsh/config.d
+!.config/zsh/config.d/git
 !.gitconfig
 !.gitignore.d
 !.gitignore.d/git
