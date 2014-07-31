@@ -1,7 +1,7 @@
 [user]
 	name = Mark Stillwell
 	email = marklee@fortawesome.org
-	signby = mark@stillwell.me
+	signby = 24333385B681EA0B125E7BFCCB8FE39384C1D3F4 
 
 [web]
 	browser = /usr/bin/firefox
@@ -12,4 +12,4 @@
 [core]
 	editor = vim
 [gcrypt]
-	participants = 9A0DF8BB9A556F97CF2C61BB614CC78883ACB9EA
+	participants = 24333385B681EA0B125E7BFCCB8FE39384C1D3F4 614CC78883ACB9EA
