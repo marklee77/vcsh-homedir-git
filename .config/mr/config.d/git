@@ -1,0 +1,3 @@
+[${XDG_CONFIG_HOME:-$HOME/.config}/vcsh/repo.d/git.git]
+checkout = vcsh clone https://gitlab.stillwell.me/mark/vcsh-homedir-git.git git
+setpush  = vcsh git remote set-url --push origin git@stillwell.me:mark/vcsh-homedir-git.git
