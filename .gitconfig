@@ -13,3 +13,5 @@
 	editor = vim
 [gcrypt]
 	participants = CB8FE39384C1D3F4
+[push]
+	default = simple
