@@ -15,3 +15,5 @@
 	participants = CB8FE39384C1D3F4
 [push]
 	default = simple
+[commit]
+	gpgsign = true
