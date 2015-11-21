@@ -13,6 +13,7 @@
 	editor = vim
 [gcrypt]
 	participants = CB8FE39384C1D3F4
+	publish-participants = true
 [push]
 	default = simple
 [commit]
