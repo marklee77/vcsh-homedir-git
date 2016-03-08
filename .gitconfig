@@ -4,7 +4,7 @@
 	signingkey = CB8FE39384C1D3F4
 
 [web]
-	browser = /usr/bin/firefox
+	browser = firefox
 [github]
 	user = marklee77
 [color]
@@ -18,3 +18,5 @@
 	default = simple
 [commit]
 	gpgSign = true
+[svn]
+	rmdir = true
