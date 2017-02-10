@@ -24,3 +24,5 @@
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f
 	required = true
+[url "https://anonscm.debian.org/git/d-i/"]
+	insteadOf = git+ssh://git.debian.org/git/d-i/
